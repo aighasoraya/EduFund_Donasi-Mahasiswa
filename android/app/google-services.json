@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005264154436",
+    "project_id": "edufund-2d45b",
+    "storage_bucket": "edufund-2d45b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005264154436:android:5bb61dd20a67a4d28e3111",
+        "android_client_info": {
+          "package_name": "com.example.edufund"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3pFGP-t7_FQ1Q2YsiE4TuGI0Rpirn1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
